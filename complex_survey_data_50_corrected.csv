@@ -1,0 +1,51 @@
+ID,Age,Income,City,Employment_Status,Has_Children,Design_Weight
+1,25,,New Delhi,Employed,No,1.2
+2,45,90000,Mumbai,Employed,Yes,0.9
+3,15,5000,Mumbai,Employed,No,1.5
+4,35,75000,Kolkata,Self-Employed,Yes,0.8
+5,65,45000,New Delhi,Retired,Yes,1.1
+6,28,62000,Mumbai,,No,0.9
+7,99,800000,Kolkata,Employed,Yes,1.0
+8,42,110000,New Delhi,Employed,No,1.2
+9,31,,Kolkata,Unemployed,No,0.8
+10,50,95000,Mumbai,Self-Employed,Yes,0.9
+11,105,95000,Mumbai,Retired,Yes,1.1
+12,40,-5000,New Delhi,Employed,No,1.2
+13,25,,Kolkata,Unemployed,No,0.8
+14,22,0,Mumbai,Unemployed,No,0.9
+15,33,78000,New Delhi,,Yes,1.2
+16,48,"65,000",Kolkata,Self-Employed,Yes,0.8
+17,17,2000,Mumbai,Retired,No,1.5
+18,55,150000,New Delhi,Employed,Yes,
+19,68,45000,Chennai,Retired,Yes,1.3
+20,29,58000,Bengaluru,Employed,No,1.0
+21,34,,Chennai,Self-Employed,Yes,1.3
+22,41,120000,Bengaluru,Employed,No,1.0
+23,19,25000,Mumbai,Student,No,1.4
+24,52,250000,New Delhi,Self-Employed,Yes,1.1
+25,75,35000,Kolkata,Retired,No,0.7
+26,26,,Bengaluru,Unemployed,No,1.0
+27,38,92000,Chennai,Employed,Yes,1.2
+28,47,130000,Mumbai,Self-Employed,No,0.9
+29,61,60000,New Delhi,Employed,Yes,1.1
+30,23,40000,Kolkata,Employed,No,0.8
+31,85,20000,Bengaluru,Retired,Yes,1.0
+32,30,85000,Chennai,Self-Employed,No,1.3
+33,49,150000,Mumbai,Employed,Yes,0.9
+34,20,22000,New Delhi,Student,No,1.2
+35,58,180000,Kolkata,Self-Employed,Yes,0.7
+36,70,,Chennai,Retired,No,1.3
+37,27,65000,Bengaluru,Employed,No,1.0
+38,44,115000,Mumbai,Employed,Yes,0.9
+39,32,,New Delhi,Unemployed,No,1.1
+40,53,98000,Kolkata,Self-Employed,Yes,0.8
+41,16,1500,Chennai,Self-Employed,No,1.4
+42,78,30000,Bengaluru,Retired,Yes,1.0
+43,24,48000,Mumbai,Employed,No,0.9
+44,51,220000,New Delhi,Self-Employed,Yes,1.2
+45,66,40000,Kolkata,Retired,No,0.7
+46,29,72000,Bengaluru,Employed,Yes,1.0
+47,36,,Chennai,Employed,No,1.3
+48,59,3000000,Mumbai,Self-employed,Yes,0.9
+49,69,50000,New Delhi,Retired,Yes,1.1
+50,21,35000,Kolkata,Student,No,0.8
